@@ -1,13 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="compactDropdowns" value="true" />
+    <option name="darkTitleBar" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="tabsHeight" value="18" />
+    <option name="tabsHeight" value="12" />
     <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="2835949b:16a731db734:-7fff" />
     <option name="version" value="3.9.3" />
