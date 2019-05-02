@@ -10,7 +10,8 @@
     <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="tabsHeight" value="12" />
-    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="accentColor" value="ffd866" />
+    <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="2835949b:16a731db734:-7fff" />
     <option name="version" value="3.9.3" />
   </component>
