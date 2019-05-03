@@ -5,12 +5,14 @@
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="tabsHeight" value="12" />
-    <option name="accentColor" value="ffd866" />
-    <option name="selectedTheme" value="MONOKAI" />
+    <option name="accentColor" value="2979ff" />
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="2835949b:16a731db734:-7fff" />
     <option name="version" value="3.9.3" />
   </component>
